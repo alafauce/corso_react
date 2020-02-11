@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  font-family: monospace;
+  font-size: 4vh;
+}
+
+td,
+th {
+  padding: 6px 2px;
+}
+
+td {
+  border: 1px solid;
+}
